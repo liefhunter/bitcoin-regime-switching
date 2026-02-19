@@ -1,6 +1,6 @@
 # Bitcoin Regime-Switching VAR
 
-Replication code for Chapter 5 of [PhD thesis title -- placeholder].
+Replication code for Chapter 5 of *Bitcoin in the Macroeconomic Landscape: Price Determinants, Regime Dynamics, and Volatility Modelling*.
 
 ## Background
 
@@ -125,4 +125,4 @@ boot_durations = params['durations']    # (500, 2) expected durations
 
 ## Thesis Reference
 
-Chapter 5: [Chapter title -- placeholder]
+Chapter 5: *Regime-Dependent Bitcoin Dynamics: A Markov-Switching VAR Analysis*
